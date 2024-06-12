@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil 💙💙
 
 Meu nome é Layla Mendes
 
@@ -6,10 +6,10 @@ Meu nome é Layla Mendes
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo 📫
 
 laylaliramendes2006@gmail.com
 
 @liraslay
 
-![peixe](https://tenor.com/bR9mT.gif)
+![](https://tenor.com/pt-BR/view/crdanexo-gif-25259713)
